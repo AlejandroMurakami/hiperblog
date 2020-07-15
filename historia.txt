@@ -2,4 +2,5 @@ Esta es la historia de Alejandro
 
 Alejandro tiene 30 años, 
 es profesor de tenis, 
+esta aprendiendo git
 esta aprendiendo a programar.
