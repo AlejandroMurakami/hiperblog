@@ -7,3 +7,4 @@ esta aprendiendo a programar.
 21/7 a las 11:20am, tiene hambre.
 son 1:09pm, sigo teniendo hambre.
 ya estoy usando github, video 18.
+agregando commit desde github
