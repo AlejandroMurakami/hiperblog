@@ -8,3 +8,4 @@ esta aprendiendo a programar.
 son 1:09pm, sigo teniendo hambre.
 ya estoy usando github, video 18.
 agregando commit desde github
+agregando 2ndo commit desde github
